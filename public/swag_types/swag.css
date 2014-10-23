@@ -1,0 +1,43 @@
+#wrapper{
+    background-color: lightcyan;
+    position: relative;
+
+    z-index: -1;
+
+}
+
+#logo h1 a {
+    text-shadow: 3px 3px 3px green;
+    color: purple;
+    position: relative;
+
+
+    z-index: -1;
+
+}
+
+#logo img {
+    z-index: 1;
+    float: right;
+
+
+}
+
+
+p {
+    background-color: powderblue;
+    position: relative;
+    z-index: -1;
+}
+
+h1 {
+    background-color: lightslategray;
+    position: relative;
+    z-index: -1;
+}
+
+
+
+body img {
+
+}
